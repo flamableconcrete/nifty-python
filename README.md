@@ -99,6 +99,8 @@ all those other [awesome lists](https://github.com/sindresorhus/awesome)!
 
 ## Weekly Emails
 
+*These are ones I actually subscribe to, with the understanding that there are others*
+
 * [Pycoder's Weekly](http://pycoders.com/)
 * [Python Weekly](http://www.pythonweekly.com/)
 * [Python Bytes](https://pythonbytes.fm)
