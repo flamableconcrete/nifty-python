@@ -59,6 +59,7 @@ all those other [awesome lists](https://github.com/sindresorhus/awesome)!
 
 * [closer](https://github.com/haarcuba/closer) - run, monitor and close remote SSH processes automatically
 * [sultan](https://github.com/aeroxis/sultan) - a Python package for interfacing with command-line utilities, like yum, apt-get, or ls, in a Pythonic manner. Possible replacement for Fabric?
+* [AWX](https://github.com/ansible/awx) - Ansible web front end
 
 ## Scary Stuff
 
