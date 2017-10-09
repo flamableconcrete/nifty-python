@@ -79,6 +79,8 @@ all those other [awesome lists](https://github.com/sindresorhus/awesome)!
 
 ## Podcasts
 
+*The ones I actually get around to listening to - on a good week*
+
 * [Podcast.init](https://podcastinit.com/)
 * [Talk Python To Me](https://talkpython.fm/)
 * [Python Bytes](https://pythonbytes.fm)
