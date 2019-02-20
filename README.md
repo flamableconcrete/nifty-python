@@ -35,6 +35,7 @@ all those other [awesome lists](https://github.com/sindresorhus/awesome)!
 *Database related tech.*
 
 * [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
+* [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
 
 ## General Purpose
 
